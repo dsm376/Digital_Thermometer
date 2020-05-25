@@ -1,0 +1,3 @@
+IR.c:33:6:UART_TX	8	static
+IR.c:40:6:HAL_UART_RxCpltCallback	16	static
+IR.c:61:6:LED	16	static
